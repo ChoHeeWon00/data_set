@@ -1,0 +1,10 @@
+bicycle.csv, bicycle_quiz.csv 파일은 # data.go.kr사이트 서울 특별시에서 제공하는 데이터 입니다
+
+loan_train_quiz.csv 데이터베이스 콘텐츠 라이선스(DbCL)(https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset?resource=download)
+titanic_cleaning.csv 저작권 없음(https://www.kaggle.com/datasets/brendan45774/test-file)
+
+report.txt
+제공기관 : 서울특별시
+저작권자 : 서울특별시 디지털정책관
+
+bank.csv, bank_cleaning.csv 저작권 없음. (https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets)
